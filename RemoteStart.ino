@@ -13,6 +13,9 @@
  modified 4 Sep 2010
  by Tom Igoe
  
+ modified 3 May 2012
+ by Spencer 
+ spuder.wordpress.com
  */
 
 #include <SPI.h>
